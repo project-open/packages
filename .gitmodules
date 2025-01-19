@@ -1,0 +1,369 @@
+[submodule "acs-admin"]
+	path = acs-admin
+	url = https://gitlab.project-open.net/project-open/acs-admin.git
+[submodule "acs-api-browser"]
+	path = acs-api-browser
+	url = https://gitlab.project-open.net/project-open/acs-api-browser.git
+[submodule "acs-authentication"]
+	path = acs-authentication
+	url = https://gitlab.project-open.net/project-open/acs-authentication.git
+[submodule "acs-automated-testing"]
+	path = acs-automated-testing
+	url = https://gitlab.project-open.net/project-open/acs-automated-testing.git
+[submodule "acs-bootstrap-installer"]
+	path = acs-bootstrap-installer
+	url = https://gitlab.project-open.net/project-open/acs-bootstrap-installer.git
+[submodule "acs-content-repository"]
+	path = acs-content-repository
+	url = https://gitlab.project-open.net/project-open/acs-content-repository.git
+[submodule "acs-core-docs"]
+	path = acs-core-docs
+	url = https://gitlab.project-open.net/project-open/acs-core-docs.git
+[submodule "acs-datetime"]
+	path = acs-datetime
+	url = https://gitlab.project-open.net/project-open/acs-datetime.git
+[submodule "acs-developer-support"]
+	path = acs-developer-support
+	url = https://gitlab.project-open.net/project-open/acs-developer-support.git
+[submodule "acs-events"]
+	path = acs-events
+	url = https://gitlab.project-open.net/project-open/acs-events.git
+[submodule "acs-kernel"]
+	path = acs-kernel
+	url = https://gitlab.project-open.net/project-open/acs-kernel.git
+[submodule "acs-lang"]
+	path = acs-lang
+	url = https://gitlab.project-open.net/project-open/acs-lang.git
+[submodule "acs-mail"]
+	path = acs-mail
+	url = https://gitlab.project-open.net/project-open/acs-mail.git
+[submodule "acs-mail-lite"]
+	path = acs-mail-lite
+	url = https://gitlab.project-open.net/project-open/acs-mail-lite.git
+[submodule "acs-messaging"]
+	path = acs-messaging
+	url = https://gitlab.project-open.net/project-open/acs-messaging.git
+[submodule "acs-reference"]
+	path = acs-reference
+	url = https://gitlab.project-open.net/project-open/acs-reference.git
+[submodule "acs-service-contract"]
+	path = acs-service-contract
+	url = https://gitlab.project-open.net/project-open/acs-service-contract.git
+[submodule "acs-subsite"]
+	path = acs-subsite
+	url = https://gitlab.project-open.net/project-open/acs-subsite.git
+[submodule "acs-tcl"]
+	path = acs-tcl
+	url = https://gitlab.project-open.net/project-open/acs-tcl.git
+[submodule "acs-templating"]
+	path = acs-templating
+	url = https://gitlab.project-open.net/project-open/acs-templating.git
+[submodule "acs-translations"]
+	path = acs-translations
+	url = https://gitlab.project-open.net/project-open/acs-translations.git
+[submodule "acs-workflow"]
+	path = acs-workflow
+	url = https://gitlab.project-open.net/project-open/acs-workflow.git
+[submodule "ajaxhelper"]
+	path = ajaxhelper
+	url = https://gitlab.project-open.net/project-open/ajaxhelper.git
+[submodule "attachments"]
+	path = attachments
+	url = https://gitlab.project-open.net/project-open/attachments.git
+[submodule "calendar"]
+	path = calendar
+	url = https://gitlab.project-open.net/project-open/calendar.git
+[submodule "categories"]
+	path = categories
+	url = https://gitlab.project-open.net/project-open/categories.git
+[submodule "diagram"]
+	path = diagram
+	url = https://gitlab.project-open.net/project-open/diagram.git
+[submodule "file-storage"]
+	path = file-storage
+	url = https://gitlab.project-open.net/project-open/file-storage.git
+[submodule "general-comments"]
+	path = general-comments
+	url = https://gitlab.project-open.net/project-open/general-comments.git
+[submodule "intranet-agile"]
+	path = intranet-agile
+	url = https://gitlab.project-open.net/project-open/intranet-agile.git
+[submodule "intranet-calendar"]
+	path = intranet-calendar
+	url = https://gitlab.project-open.net/project-open/intranet-calendar.git
+[submodule "intranet-confdb"]
+	path = intranet-confdb
+	url = https://gitlab.project-open.net/project-open/intranet-confdb.git
+[submodule "intranet-core"]
+	path = intranet-core
+	url = https://gitlab.project-open.net/project-open/intranet-core.git
+[submodule "intranet-cost"]
+	path = intranet-cost
+	url = https://gitlab.project-open.net/project-open/intranet-cost.git
+[submodule "intranet-crm-opportunities"]
+	path = intranet-crm-opportunities
+	url = https://gitlab.project-open.net/project-open/intranet-crm-opportunities.git
+[submodule "intranet-csv-import"]
+	path = intranet-csv-import
+	url = https://gitlab.project-open.net/project-open/intranet-csv-import.git
+[submodule "intranet-cvs-integration"]
+	path = intranet-cvs-integration
+	url = https://gitlab.project-open.net/project-open/intranet-cvs-integration.git
+[submodule "intranet-department-planner"]
+	path = intranet-department-planner
+	url = https://gitlab.project-open.net/project-open/intranet-department-planner.git
+[submodule "intranet-demo-data"]
+	path = intranet-demo-data
+	url = https://gitlab.project-open.net/project-open/intranet-demo-data.git
+[submodule "intranet-dw-light"]
+	path = intranet-dw-light
+	url = https://gitlab.project-open.net/project-open/intranet-dw-light.git
+[submodule "intranet-dynfield"]
+	path = intranet-dynfield
+	url = https://gitlab.project-open.net/project-open/intranet-dynfield.git
+[submodule "intranet-earned-value-management"]
+	path = intranet-earned-value-management
+	url = https://gitlab.project-open.net/project-open/intranet-earned-value-management.git
+[submodule "intranet-exchange-rate"]
+	path = intranet-exchange-rate
+	url = https://gitlab.project-open.net/project-open/intranet-exchange-rate.git
+[submodule "intranet-expenses"]
+	path = intranet-expenses
+	url = https://gitlab.project-open.net/project-open/intranet-expenses.git
+[submodule "intranet-expenses-workflow"]
+	path = intranet-expenses-workflow
+	url = https://gitlab.project-open.net/project-open/intranet-expenses-workflow.git
+[submodule "intranet-filestorage"]
+	path = intranet-filestorage
+	url = https://gitlab.project-open.net/project-open/intranet-filestorage.git
+[submodule "intranet-forum"]
+	path = intranet-forum
+	url = https://gitlab.project-open.net/project-open/intranet-forum.git
+[submodule "intranet-freelance"]
+	path = intranet-freelance
+	url = https://gitlab.project-open.net/project-open/intranet-freelance.git
+[submodule "intranet-gantt-editor"]
+	path = intranet-gantt-editor
+	url = https://gitlab.project-open.net/project-open/intranet-gantt-editor.git
+[submodule "intranet-ganttproject"]
+	path = intranet-ganttproject
+	url = https://gitlab.project-open.net/project-open/intranet-ganttproject.git
+[submodule "intranet-helpdesk"]
+	path = intranet-helpdesk
+	url = https://gitlab.project-open.net/project-open/intranet-helpdesk.git
+[submodule "intranet-hr"]
+	path = intranet-hr
+	url = https://gitlab.project-open.net/project-open/intranet-hr.git
+[submodule "intranet-idea-management"]
+	path = intranet-idea-management
+	url = https://gitlab.project-open.net/project-open/intranet-idea-management.git
+[submodule "intranet-invoices"]
+	path = intranet-invoices
+	url = https://gitlab.project-open.net/project-open/intranet-invoices.git
+[submodule "intranet-invoices-templates"]
+	path = intranet-invoices-templates
+	url = https://gitlab.project-open.net/project-open/intranet-invoices-templates.git
+[submodule "intranet-jira"]
+	path = intranet-jira
+	url = https://gitlab.project-open.net/project-open/intranet-jira.git
+[submodule "intranet-mail-import"]
+	path = intranet-mail-import
+	url = https://gitlab.project-open.net/project-open/intranet-mail-import.git
+[submodule "intranet-material"]
+	path = intranet-material
+	url = https://gitlab.project-open.net/project-open/intranet-material.git
+[submodule "intranet-milestone"]
+	path = intranet-milestone
+	url = https://gitlab.project-open.net/project-open/intranet-milestone.git
+[submodule "intranet-nagios"]
+	path = intranet-nagios
+	url = https://gitlab.project-open.net/project-open/intranet-nagios.git
+[submodule "intranet-notes"]
+	path = intranet-notes
+	url = https://gitlab.project-open.net/project-open/intranet-notes.git
+[submodule "intranet-payments"]
+	path = intranet-payments
+	url = https://gitlab.project-open.net/project-open/intranet-payments.git
+[submodule "intranet-planning"]
+	path = intranet-planning
+	url = https://gitlab.project-open.net/project-open/intranet-planning.git
+[submodule "intranet-portfolio-management"]
+	path = intranet-portfolio-management
+	url = https://gitlab.project-open.net/project-open/intranet-portfolio-management.git
+[submodule "intranet-portfolio-planner"]
+	path = intranet-portfolio-planner
+	url = https://gitlab.project-open.net/project-open/intranet-portfolio-planner.git
+[submodule "intranet-project-scoring"]
+	path = intranet-project-scoring
+	url = https://gitlab.project-open.net/project-open/intranet-project-scoring.git
+[submodule "intranet-release-mgmt"]
+	path = intranet-release-mgmt
+	url = https://gitlab.project-open.net/project-open/intranet-release-mgmt.git
+[submodule "intranet-reporting"]
+	path = intranet-reporting
+	url = https://gitlab.project-open.net/project-open/intranet-reporting.git
+[submodule "intranet-reporting-dashboard"]
+	path = intranet-reporting-dashboard
+	url = https://gitlab.project-open.net/project-open/intranet-reporting-dashboard.git
+[submodule "intranet-reporting-finance"]
+	path = intranet-reporting-finance
+	url = https://gitlab.project-open.net/project-open/intranet-reporting-finance.git
+[submodule "intranet-reporting-indicators"]
+	path = intranet-reporting-indicators
+	url = https://gitlab.project-open.net/project-open/intranet-reporting-indicators.git
+[submodule "intranet-reporting-openoffice"]
+	path = intranet-reporting-openoffice
+	url = https://gitlab.project-open.net/project-open/intranet-reporting-openoffice.git
+[submodule "intranet-reporting-tutorial"]
+	path = intranet-reporting-tutorial
+	url = https://gitlab.project-open.net/project-open/intranet-reporting-tutorial.git
+[submodule "intranet-resource-management"]
+	path = intranet-resource-management
+	url = https://gitlab.project-open.net/project-open/intranet-resource-management.git
+[submodule "intranet-rest"]
+	path = intranet-rest
+	url = https://gitlab.project-open.net/project-open/intranet-rest.git
+[submodule "intranet-riskmanagement"]
+	path = intranet-riskmanagement
+	url = https://gitlab.project-open.net/project-open/intranet-riskmanagement.git
+[submodule "intranet-rule-engine"]
+	path = intranet-rule-engine
+	url = https://gitlab.project-open.net/project-open/intranet-rule-engine.git
+[submodule "intranet-search-pg"]
+	path = intranet-search-pg
+	url = https://gitlab.project-open.net/project-open/intranet-search-pg.git
+[submodule "intranet-security-update-client"]
+	path = intranet-security-update-client
+	url = https://gitlab.project-open.net/project-open/intranet-security-update-client.git
+[submodule "intranet-sharepoint"]
+	path = intranet-sharepoint
+	url = https://gitlab.project-open.net/project-open/intranet-sharepoint.git
+[submodule "intranet-simple-survey"]
+	path = intranet-simple-survey
+	url = https://gitlab.project-open.net/project-open/intranet-simple-survey.git
+[submodule "intranet-sla-management"]
+	path = intranet-sla-management
+	url = https://gitlab.project-open.net/project-open/intranet-sla-management.git
+[submodule "intranet-spam"]
+	path = intranet-spam
+	url = https://gitlab.project-open.net/project-open/intranet-spam.git
+[submodule "intranet-sql-selectors"]
+	path = intranet-sql-selectors
+	url = https://gitlab.project-open.net/project-open/intranet-sql-selectors.git
+[submodule "intranet-sugarcrm"]
+	path = intranet-sugarcrm
+	url = https://gitlab.project-open.net/project-open/intranet-sugarcrm.git
+[submodule "intranet-sysconfig"]
+	path = intranet-sysconfig
+	url = https://gitlab.project-open.net/project-open/intranet-sysconfig.git
+[submodule "intranet-task-management"]
+	path = intranet-task-management
+	url = https://gitlab.project-open.net/project-open/intranet-task-management.git
+[submodule "intranet-timesheet2"]
+	path = intranet-timesheet2
+	url = https://gitlab.project-open.net/project-open/intranet-timesheet2.git
+[submodule "intranet-timesheet2-invoices"]
+	path = intranet-timesheet2-invoices
+	url = https://gitlab.project-open.net/project-open/intranet-timesheet2-invoices.git
+[submodule "intranet-timesheet2-task-popup"]
+	path = intranet-timesheet2-task-popup
+	url = https://gitlab.project-open.net/project-open/intranet-timesheet2-task-popup.git
+[submodule "intranet-timesheet2-tasks"]
+	path = intranet-timesheet2-tasks
+	url = https://gitlab.project-open.net/project-open/intranet-timesheet2-tasks.git
+[submodule "intranet-timesheet2-workflow"]
+	path = intranet-timesheet2-workflow
+	url = https://gitlab.project-open.net/project-open/intranet-timesheet2-workflow.git
+[submodule "intranet-wiki"]
+	path = intranet-wiki
+	url = https://gitlab.project-open.net/project-open/intranet-wiki.git
+[submodule "intranet-workflow"]
+	path = intranet-workflow
+	url = https://gitlab.project-open.net/project-open/intranet-workflow.git
+[submodule "intranet-xmlrpc"]
+	path = intranet-xmlrpc
+	url = https://gitlab.project-open.net/project-open/intranet-xmlrpc.git
+[submodule "mail-tracking"]
+	path = mail-tracking
+	url = https://gitlab.project-open.net/project-open/mail-tracking.git
+[submodule "notifications"]
+	path = notifications
+	url = https://gitlab.project-open.net/project-open/notifications.git
+[submodule "oacs-dav"]
+	path = oacs-dav
+	url = https://gitlab.project-open.net/project-open/oacs-dav.git
+[submodule "openacs-default-theme"]
+	path = openacs-default-theme
+	url = https://gitlab.project-open.net/project-open/openacs-default-theme.git
+[submodule "organizations"]
+	path = organizations
+	url = https://gitlab.project-open.net/project-open/organizations.git
+[submodule "postal-address"]
+	path = postal-address
+	url = https://gitlab.project-open.net/project-open/postal-address.git
+[submodule "ref-countries"]
+	path = ref-countries
+	url = https://gitlab.project-open.net/project-open/ref-countries.git
+[submodule "ref-currency"]
+	path = ref-currency
+	url = https://gitlab.project-open.net/project-open/ref-currency.git
+[submodule "ref-language"]
+	path = ref-language
+	url = https://gitlab.project-open.net/project-open/ref-language.git
+[submodule "ref-timezones"]
+	path = ref-timezones
+	url = https://gitlab.project-open.net/project-open/ref-timezones.git
+[submodule "ref-us-counties"]
+	path = ref-us-counties
+	url = https://gitlab.project-open.net/project-open/ref-us-counties.git
+[submodule "ref-us-states"]
+	path = ref-us-states
+	url = https://gitlab.project-open.net/project-open/ref-us-states.git
+[submodule "ref-us-zipcodes"]
+	path = ref-us-zipcodes
+	url = https://gitlab.project-open.net/project-open/ref-us-zipcodes.git
+[submodule "richtext-ckeditor4"]
+	path = richtext-ckeditor4
+	url = https://gitlab.project-open.net/project-open/richtext-ckeditor4
+[submodule "rss-support"]
+	path = rss-support
+	url = https://gitlab.project-open.net/project-open/rss-support.git
+[submodule "search"]
+	path = search
+	url = https://gitlab.project-open.net/project-open/search.git
+[submodule "sencha-core"]
+	path = sencha-core
+	url = https://gitlab.project-open.net/project-open/sencha-core.git
+[submodule "sencha-extjs-v421"]
+	path = sencha-extjs-v421
+	url = https://gitlab.project-open.net/project-open/sencha-extjs-v421.git
+[submodule "senchatouch-v242"]
+	path = senchatouch-v242
+	url = https://gitlab.project-open.net/project-open/senchatouch-v242.git
+[submodule "senchatouch-timesheet"]
+	path = senchatouch-timesheet
+	url = https://gitlab.project-open.net/project-open/senchatouch-timesheet.git
+[submodule "simple-survey"]
+	path = simple-survey
+	url = https://gitlab.project-open.net/project-open/simple-survey.git
+[submodule "tsearch2-driver"]
+	path = tsearch2-driver
+	url = https://gitlab.project-open.net/project-open/tsearch2-driver.git
+[submodule "wiki"]
+	path = wiki
+	url = https://gitlab.project-open.net/project-open/wiki.git
+[submodule "workflow"]
+	path = workflow
+	url = https://gitlab.project-open.net/project-open/workflow.git
+[submodule "xml-rpc"]
+	path = xml-rpc
+	url = https://gitlab.project-open.net/project-open/xml-rpc.git
+[submodule "xotcl-core"]
+	path = xotcl-core
+	url = https://gitlab.project-open.net/project-open/xotcl-core.git
+[submodule "xotcl-request-monitor"]
+	path = xotcl-request-monitor
+	url = https://gitlab.project-open.net/project-open/xotcl-request-monitor.git
+[submodule "xowiki"]
+	path = xowiki
+	url = https://gitlab.project-open.net/project-open/xowiki.git
