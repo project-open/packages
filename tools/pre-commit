@@ -1,0 +1,62 @@
+#!/usr/bin/env python3
+import re
+import os
+import subprocess
+
+def increment_version(version):
+    """Increment the patch version (z) in a version string of format x.y.z."""
+    major, minor, release, patch, increment = map(int, version.split('.'))
+    increment += 1
+    if increment > 9:
+        increment = 0
+        patch += 1
+        if patch > 9:
+            patch = 0
+            release += 1
+            if release > 9:
+                release = 0
+                minor += 1
+                if minor > 9:
+                    minor = 0
+                    major += 1
+    return f"{major}.{minor}.{release}.{patch}.{increment}"
+
+def update_version_in_file(file_path):
+    """Find the version in the specified file and increment the patch version."""
+    with open(file_path, 'r') as f:
+        lines = f.readlines()
+
+    updated = False
+    with open(file_path, 'w') as f:
+        for line in lines:
+            match = re.search(r'name=\"(\d+\.\d+\.\d+\.\d+\.\d+)\"', line)
+            if match:
+                current_version = match.group(1)
+                new_version = increment_version(current_version)
+                line = line.replace(current_version, new_version)
+                updated = True
+            f.write(line)
+
+    return updated
+
+def main():
+    # Find .info files in the repository
+    info_files = [f for f in os.listdir('.') if f.endswith('.info')]
+
+    if not info_files:
+        print("No .info file found.")
+        return 0
+
+    for info_file in info_files:
+        if update_version_in_file(info_file):
+            output = subprocess.check_output(['git', 'add', info_file])
+            print(f"Added {info_file} to git")
+            print(f"Version updated in {info_file}.")
+        else:
+            print(f"No version string found in {info_file}.")
+
+
+    return 0
+
+if __name__ == "__main__":
+    exit(main())
