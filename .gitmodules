@@ -367,3 +367,9 @@
 [submodule "xowiki"]
 	path = xowiki
 	url = https://gitlab.project-open.net/project-open/xowiki.git
+[submodule "intranet-attendance-management"]
+	path = intranet-attendance-management
+	url = https://gitlab.project-open.net/project-open/intranet-attendance-management.git
+[submodule "intranet-git-releases"]
+	path = intranet-git-releases
+	url = https://gitlab.project-open.net/project-open/intranet-git-releases.git
