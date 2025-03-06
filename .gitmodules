@@ -64,9 +64,6 @@
 [submodule "acs-workflow"]
 	path = acs-workflow
 	url = https://gitlab.project-open.net/project-open/acs-workflow.git
-[submodule "ajaxhelper"]
-	path = ajaxhelper
-	url = https://gitlab.project-open.net/project-open/ajaxhelper.git
 [submodule "attachments"]
 	path = attachments
 	url = https://gitlab.project-open.net/project-open/attachments.git
@@ -373,3 +370,6 @@
 [submodule "intranet-git-releases"]
 	path = intranet-git-releases
 	url = https://gitlab.project-open.net/project-open/intranet-git-releases.git
+[submodule "ajaxhelper"]
+	path = ajaxhelper
+	url = https://gitlab.project-open.net/project-open/ajaxhelper.git
