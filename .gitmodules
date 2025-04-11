@@ -373,3 +373,6 @@
 [submodule "ajaxhelper"]
 	path = ajaxhelper
 	url = https://gitlab.project-open.net/project-open/ajaxhelper.git
+[submodule "intranet-oauth2"]
+	path = intranet-oauth2
+	url = https://gitlab.project-open.net/project-open/intranet-oauth2.git
